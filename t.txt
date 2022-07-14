@@ -1,0 +1,47 @@
+[33mcommit adc8a7ce197120c3f5f149b5cb875c36f4d201bf[m[33m ([m[1;36mHEAD -> [m[1;32mstage[m[33m, [m[1;31morigin/stage[m[33m)[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Wed Jul 13 08:36:46 2022 +0530
+
+    anoither commit
+
+[33mcommit c378d90231f4d8e867c88a7abb697881abbd9d1b[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Wed Jul 13 08:34:05 2022 +0530
+
+    new commit
+
+[33mcommit cfb76266cbc888ae12d896867bc85b56d4e7699c[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Wed Jul 13 08:21:22 2022 +0530
+
+    staged
+
+[33mcommit f65f46af16a217d43c03b910f19aed5a30c06f35[m[33m ([m[1;31morigin/newbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mnewbranch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Vishnuvardhan Krishnan <40740095+VishnuvardhanKrishnan@users.noreply.github.com>
+Date:   Tue Jul 12 08:53:27 2022 +0530
+
+    direct remote commit
+
+[33mcommit 17cd2e6b77d2a510ef60ad1663aee18ab0d88e3e[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Tue Jul 12 08:46:56 2022 +0530
+
+    one file deleted
+
+[33mcommit 0e72402c3f53505e8d0e3cf7e8ae7cc0a60e7d2f[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Tue Jul 12 08:40:51 2022 +0530
+
+    newbranch commit
+
+[33mcommit 65325d60b272368df42bb9b97c1df44fbdc35655[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Tue Jul 12 08:35:31 2022 +0530
+
+    my second commit
+
+[33mcommit 2ae01a5944aeb676338c24a2848708b32b8653ba[m
+Author: Vishnuvardhan-Krishnan <Vishnuvardhan.Krishnan@coxautoinc.com>
+Date:   Tue Jul 12 08:12:44 2022 +0530
+
+    my first commit
